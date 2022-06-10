@@ -78,3 +78,4 @@ const styles = StyleSheet.create({
   },
   focusContainer: { flex: 1, backgroundColor: '#252250' },
 });
+//eas build -p android --profile preview
